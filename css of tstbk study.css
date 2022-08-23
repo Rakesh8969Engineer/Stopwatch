@@ -1,0 +1,38 @@
+.wrapper,
+.card {
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+.card {
+width: 400px;
+height: 300px;
+background-color: yellowgreen;
+    color: white;
+    border-radius: 12px;
+
+
+
+}
+.timer{
+
+font-size: 45px;
+
+}
+button{
+background-color: rgb(129, 43, 21);
+color: white;
+border: none;
+border-radius: 5px;
+padding: 12px;
+
+
+
+}
